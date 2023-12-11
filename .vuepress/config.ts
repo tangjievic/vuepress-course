@@ -45,6 +45,7 @@ export default defineUserConfig({
     ],
     customFiled:'这是我自定义的一个功能字段',
     contributors:true,
-    lastUpdated:true
-  })
+    lastUpdated:true,
+  }),
+  dest:'./website'
 })
